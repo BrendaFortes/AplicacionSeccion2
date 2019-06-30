@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplicacionSeccion2</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="NoEmpleado">No. Empleado</string>
+    <string name="NSS">NSS</string>
+    <string name="RFC">RFC</string>
+    <string name="CURP">CURP</string>
+    <string name="Nacimiento">Nacimiento (dd/mm/aa)</string>
+</resources>
